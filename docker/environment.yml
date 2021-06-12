@@ -1,0 +1,9 @@
+name: base                                                                   
+channels:                                                                    
+  - defaults                                                                 
+dependencies:                                                                
+  - pandas
+  - sqlalchemy
+  - scikit-learn
+  - pyodbc
+  - jupyterlab
